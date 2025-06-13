@@ -70,6 +70,3 @@ By using our Application, you consent to our collection and processing of your i
 If you have questions or concerns regarding this Privacy Policy or our data practices, please contact us at:
 
 📧 Email: privacy@applicationsite.com
-
-
-](https://github.com/pawankumar123442/FamilyPolicy)
