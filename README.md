@@ -1,72 +1,98 @@
-# PrivacyPolicy
- 1. User Provided Information
-We may collect personal information that you voluntarily provide when you:
+# # PRIVACY POLICY
+**PawanKrGames**
 
-Register or sign up for an account (e.g., name, age, username, email address, password).
+**Effective Date:** November 23, 2026  
+**Developer:** PawanKrGames
 
-Contact us for support.
+## 1. Introduction
 
-Make in-app purchases (note: we do not store credit card details; transactions are handled via secure third-party services).
+PawanKrGames ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle information when you download and play our mobile games and applications.
 
-Enter any information into the app, such as feedback, preferences, or optional profile data.
+We aim to provide simple, enjoyable gaming experiences while respecting the privacy of our users.
 
-If you are under the age of digital consent (e.g., under 13 in the U.S. or under 16 in the EU), we do not collect personal data without verified parental consent. We display only age-appropriate content and ads to children, as required by law.
+This policy applies to Tap It Fast and other games published by PawanKrGames that link to this Privacy Policy.
 
-2. Automatically Collected Information
-We may collect certain data automatically, such as:
+## 2. Information We Collect
 
-Device type and model
+Our offline games are designed to operate without requiring users to create accounts or provide personal information.
 
-Operating system and version
+We do not intentionally collect or request personally identifiable information such as:
 
-Unique device identifier (e.g., Android Advertising ID)
+- Full name
+- Email address
+- Phone number
+- Home address
+- Contact information
+- Personal photographs
 
-IP address (used for general region information, not precise location)
+## 3. Locally Stored Game Data
 
-App usage data (e.g., features accessed, session length)
+Some games may store limited gameplay information locally on your device to provide game functionality.
 
-We do not collect precise real-time location data from your mobile device.
+This may include:
 
-3. Advertising and Third-Party Services
-To comply with the Families Policy:
+- Best scores and records
+- Game progress
+- Gameplay preferences
+- Saved settings
 
-We only use Google Play certified ad networks when displaying ads to children.
+This information is stored locally on your device and is not intentionally transmitted to our servers.
 
-All ads shown to children are vetted for age-appropriateness.
+Uninstalling a game or clearing its application data may permanently delete locally stored game information.
 
-No behavioral advertising is shown to children under the age of consent.
+## 4. Advertising and Third-Party Services
 
-We do not allow unaffiliated third parties to track children's behavior for advertising or analytics purposes.
+Our offline games do not intentionally use third-party advertising services or advertising identifiers.
 
-We may share non-personally identifiable information with third-party service providers that assist us in improving app functionality and performance. These providers have no independent right to use the information except to provide services on our behalf and are contractually obligated to comply with this privacy policy.
+If a future version of a game introduces advertising, analytics, online features, or other third-party services, this Privacy Policy will be updated accordingly.
 
-4. Children's Privacy
-We are committed to protecting children’s privacy:
+## 5. Internet Connectivity
 
-If we become aware that we have inadvertently collected personal data from a child without parental consent, we will promptly delete it.
+Our games are designed primarily for offline gameplay. Core gameplay does not require an internet connection.
 
-Parents or legal guardians may review, update, or delete their child’s personal data by contacting us at privacy@applicationsite.com.
+Your device or the Google Play platform may independently process certain technical information in accordance with their own privacy policies.
 
-If you use a neutral age screen, users identified as children will receive a child-appropriate experience within the app, and all data collection and advertising practices will reflect this.
+## 6. Children's Privacy
 
-5. Opt-Out Rights
-Users can stop all data collection by uninstalling the Application. For any data removal or parental access requests, contact us at privacy@applicationsite.com.
+Our games are intended for a general audience unless otherwise specified in the individual game's Google Play listing.
 
-6. Data Retention
-We retain User Provided data for as long as needed to provide services and for a reasonable period afterward.
+We do not knowingly collect personal information from children.
 
-Automatically Collected Information may be stored for up to 24 months and then anonymized or deleted.
+If you believe that a child has provided personal information to us, please contact us so that we can investigate and take appropriate action.
 
-7. Security
-We take reasonable security measures, including administrative, technical, and physical safeguards, to protect your information from unauthorized access, loss, misuse, or alteration.
+## 7. Data Security
 
-8. Changes to This Policy
-We may update this Privacy Policy from time to time. Any changes will be posted here, and we may notify you through the app or email. Continued use of the Application after changes means you accept the updated policy.
+We take reasonable steps to protect information handled by our applications.
 
-9. Your Consent
-By using our Application, you consent to our collection and processing of your information as described in this Privacy Policy. If you are a parent or guardian, you consent on behalf of your child.
+Gameplay records stored locally remain subject to the security of your device and its operating system.
 
-10. Contact Us
-If you have questions or concerns regarding this Privacy Policy or our data practices, please contact us at:
+However, no method of electronic storage can be guaranteed to be completely secure.
 
-📧 Email: privacy@applicationsite.com
+## 8. Data Sharing
+
+We do not sell, rent, or intentionally share users' personal information with third parties.
+
+This does not cover information independently processed by Google Play or your device platform under their respective privacy policies.
+
+## 9. Your Privacy Rights
+
+Depending on your location and applicable laws, you may have rights concerning your personal information, including rights to access, correct, or request deletion of information.
+
+Since our offline games generally do not collect or maintain personal user information on our servers, gameplay records can normally be removed by clearing the game's application data or uninstalling the game.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy when our games, services, or applicable legal requirements change.
+
+Any revised policy will be published at the same public URL with an updated effective date.
+
+## 11. Contact Us
+
+If you have questions or concerns about this Privacy Policy, contact us:
+
+**Developer:** PawanKrGames  
+**Country:** India  
+
+---
+
+© 2026 PawanKrGames. All Rights Reserved.
